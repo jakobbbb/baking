@@ -55,3 +55,7 @@ flours.
 In general, just add small amounts of water while kneading until the
 dough has a workable moisture.  You can also use this water to keep your
 hands wet.
+
+## See also
+
+My recipe is based on [this](https://github.com/hendricius/the-bread-code/blob/b325f5b2ca9ee5fa5df2d49c30ca3d2f6a02f07d/recipes/savory/basic-bread.md).
