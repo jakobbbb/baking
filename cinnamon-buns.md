@@ -32,12 +32,13 @@ Cover the bowl and let the dough **rise for a half hour**.
 Mix an equal amount of molten butter and sugar with some cinnamon to
 create the filling.
 
-On a floured surface, roll out the dough into a rectangular shape and
+On a floured surface, roll out the dough into a rectangular shape 
+(about 30cm x 60cm) and
 spread the filling on the upper half.  Fold the uncovered half onto the
 covered half.  Use scissors to cut 2-3 cm wide strips.
 
-To shape a bun, take one strip, slightly stretch it, twist it into a
-helix and tie a knot.
+To shape a bun, take one strip, slightly stretch it, fold it in half,
+then twist it into a helix and tie a knot.
 
 Let **rise for another half hour**.
 
